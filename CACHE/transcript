@@ -1,0 +1,324 @@
+# Compile of ALU.v was successful.
+# Compile of ARM.v failed with 1 errors.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v failed with 1 errors.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v failed with 1 errors.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v was successful.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 3 failed with 3 errors.
+# Compile of ALU.v was successful.
+# Compile of ARM.v was successful.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v was successful.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of ALU.v was successful.
+# Compile of ARM.v failed with 1 errors.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v failed with 1 errors.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 2 failed with 2 errors.
+# Compile of ALU.v was successful.
+# Compile of ARM.v failed with 1 errors.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v failed with 1 errors.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 2 failed with 2 errors.
+# Compile of ALU.v was successful.
+# Compile of ARM.v was successful.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v was successful.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 0 failed with no errors.
+vsim -gui work.TB_DE2
+# vsim -gui work.TB_DE2 
+# Start time: 11:30:31 on Jan 03,2024
+# Loading work.TB_DE2
+# Loading work.ARM
+# Loading work.Status_Register
+# Loading work.IF_Stage
+# Loading work.Mux
+# Loading work.Adder
+# Loading work.Instrucrion_Memory
+# Loading work.IF_stage_Reg
+# Loading work.ID_Stage
+# Loading work.ConditionCheck
+# Loading work.Register_File
+# Loading work.ControlUnit
+# Loading work.ID_Stage_Reg
+# Loading work.EXE_Stage
+# Loading work.num2
+# Loading work.ALU
+# Loading work.EXE_Reg
+# Loading work.Memory
+# Loading work.DataMemory
+# Loading work.Sram_CT
+# Loading work.MEM_Reg
+# Loading work.WB_Stage
+# Loading work.HazardDetector
+# Loading work.Forwarding_unit
+# Loading work.Sram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'sram'.  Expected 15, found 9.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_DE2/arm/sram File: C:/Users/Hasti/Downloads/SRAM/ARM.v Line: 279
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'wr_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'rd_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'address'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'writedata'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'read_data'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'ready'.
+add wave -position end sim:/TB_DE2/arm/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: ali18  Hostname: LAPTOP-PRI9AHG9  ProcessID: 10472
+#           Attempting to use alternate WLF file "./wlft8qn2yd".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8qn2yd
+run -all
+# Compile of ALU.v was successful.
+# Compile of ARM.v was successful.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v was successful.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 0 failed with no errors.
+vsim -gui work.TB_DE2
+# End time: 11:40:43 on Jan 03,2024, Elapsed time: 0:10:12
+# Errors: 0, Warnings: 19
+# vsim -gui work.TB_DE2 
+# Start time: 11:40:43 on Jan 03,2024
+# Loading work.TB_DE2
+# Loading work.ARM
+# Loading work.Status_Register
+# Loading work.IF_Stage
+# Loading work.Mux
+# Loading work.Adder
+# Loading work.Instrucrion_Memory
+# Loading work.IF_stage_Reg
+# Loading work.ID_Stage
+# Loading work.ConditionCheck
+# Loading work.Register_File
+# Loading work.ControlUnit
+# Loading work.ID_Stage_Reg
+# Loading work.EXE_Stage
+# Loading work.num2
+# Loading work.ALU
+# Loading work.EXE_Reg
+# Loading work.Memory
+# Loading work.DataMemory
+# Loading work.Sram_CT
+# Loading work.MEM_Reg
+# Loading work.WB_Stage
+# Loading work.HazardDetector
+# Loading work.Forwarding_unit
+# Loading work.Sram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'sram'.  Expected 15, found 9.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_DE2/arm/sram File: C:/Users/Hasti/Downloads/SRAM/ARM.v Line: 279
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'wr_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'rd_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'address'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'writedata'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'read_data'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'ready'.
+run -all
+quit -sim
+# Compile of ALU.v was successful.
+# Compile of ARM.v was successful.
+# Compile of ConditionCheck.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DE2.V was successful.
+# Compile of EXE_Reg.v was successful.
+# Compile of EXE_Stage.v was successful.
+# Compile of Forwarding_unit.v was successful.
+# Compile of HazardDetector.v was successful.
+# Compile of ID_Stage.v was successful.
+# Compile of ID_Stage_Reg.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of IF_stage_Reg.v was successful.
+# Compile of Instrucrion_Memory.v was successful.
+# Compile of MEM_Reg.v was successful.
+# Compile of Memory.v was successful.
+# Compile of num2.v was successful.
+# Compile of Other_Modules.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Sram.v was successful.
+# Compile of Sram_CT.v was successful.
+# Compile of Status_Register.v was successful.
+# Compile of TB_DE2.v was successful.
+# Compile of WB_Stage.v was successful.
+# 25 compiles, 0 failed with no errors.
+# End time: 11:41:28 on Jan 03,2024, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 9
+vsim -gui work.TB_DE2
+# vsim -gui work.TB_DE2 
+# Start time: 11:41:42 on Jan 03,2024
+# Loading work.TB_DE2
+# Loading work.ARM
+# Loading work.Status_Register
+# Loading work.IF_Stage
+# Loading work.Mux
+# Loading work.Adder
+# Loading work.Instrucrion_Memory
+# Loading work.IF_stage_Reg
+# Loading work.ID_Stage
+# Loading work.ConditionCheck
+# Loading work.Register_File
+# Loading work.ControlUnit
+# Loading work.ID_Stage_Reg
+# Loading work.EXE_Stage
+# Loading work.num2
+# Loading work.ALU
+# Loading work.EXE_Reg
+# Loading work.Memory
+# Loading work.DataMemory
+# Loading work.Sram_CT
+# Loading work.MEM_Reg
+# Loading work.WB_Stage
+# Loading work.HazardDetector
+# Loading work.Forwarding_unit
+# Loading work.Sram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'sram'.  Expected 15, found 9.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_DE2/arm/sram File: C:/Users/Hasti/Downloads/SRAM/ARM.v Line: 279
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'wr_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'rd_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'address'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'writedata'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'read_data'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'ready'.
+run -all
+add wave -position end sim:/TB_DE2/arm/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: ali18  Hostname: LAPTOP-PRI9AHG9  ProcessID: 10472
+#           Attempting to use alternate WLF file "./wlftcze1gb".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftcze1gb
+run -all
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'sram'.  Expected 15, found 9.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_DE2/arm/sram File: C:/Users/Hasti/Downloads/SRAM/ARM.v Line: 279
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'wr_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'rd_en'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'address'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'writedata'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'read_data'.
+# ** Warning: (vsim-3722) C:/Users/Hasti/Downloads/SRAM/ARM.v(279): [TFMPC] - Missing connection for port 'ready'.
+run -all
